@@ -1,0 +1,26 @@
+Ristorante gruppo 2
+
+Menu carne
+
+Bevande:
+Acqua minerale 1/2 lt
+Acqua minerale 1 lt	
+
+Coca Cola 33 cl (lattina)
+Coca Cola Zero 33 cl (lattina)
+Sprite 33 cl (lattina)	
+Fanta 33 cl (lattina)
+Chinotto 33 cl (lattina)
+
+Birra doppio malto bionda Bjorne 33 cl
+Birra Ichnusa non filtrata 33 cl
+Birra Ichnusa 33 cl
+Birra Tennent's super cl 33
+Birra Nastro azzurro cl 33
+Birra Peroni cl 33
+
+Caffè espresso
+Caffè macchiato
+Caffè decaffeinato
+Caffè corto
+Caffè lungo
