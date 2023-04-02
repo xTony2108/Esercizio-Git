@@ -25,6 +25,44 @@ Caffè decaffeinato
 Caffè corto
 Caffè lungo
 
+Primi piatti:
+
+Spaghetti alla carbonara
+Spaghetti all'amatriciana
+Pasta alla gricia
+Cannelloni
+Pasta al forno
+Lasagne alla bolognese
+Pasta alla Genovese
+Tagliatelle al ragù bianco
+Paccheri ripieni con salsiccia e funghi
+Pappardelle con speck e funghi porcini
+Pappardelle al ragù di chinghiale
+Cavatelli con salsiccia e cime di rapa
+Pasta melanzane e salsiccia
+Caserecce con melanzane, pancetta e gorgonzola dolce
+Paccheri con ragù di cotechino
+Risotto con prosciutto e melone
+
+Secondi piatti
+
+Polpette di carne
+Gateau di patate
+Saltimbocca alla Romana
+Spezzatino di vitello con patate
+Spezzatino di manzo
+Brasato al Barolo
+Carne alla pizzaiola
+Polpettone al forno
+Arrosto di vitello al forno con patate
+Scaloppine ai funghi
+Cotoletta alla milanese
+Trippa alla Romana
+Tagliata di manzo con rucola e pomodorini
+Involtini di vitello con prosciutto e formaggio
+Roast-beef all'inglese
+Bistecca alla fiorentina
+
 Dessert:
 
 Tiramisù
